@@ -45,3 +45,20 @@ https://www.youtube.com/watch?time_continue=20&v=fDeLtKUxTmM
 ZERO TO HERO NETWORK PENTESTING
 
 https://www.thecybermentor.com/zero-to-hero-pentesting
+
+# Malware Analizi Eğitimleri
+Welcome to reverse engineering workshops
+
+https://malwareunicorn.org/#/workshops
+
+Reverse Engineering for Beginners
+
+https://beginners.re/
+
+Android App Reverse Engineering 101
+
+https://maddiestone.github.io/AndroidAppRE/
+
+Malware Analysis
+
+https://class.malware.re/
