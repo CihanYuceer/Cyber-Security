@@ -88,3 +88,7 @@ https://youtu.be/gEGs8fHq7bs
 Session 6: Network Threat Hunting – Hands-on Lab Review
 
 https://youtu.be/lswVTaVoZPg
+
+RSA University
+
+https://www.youtube.com/channel/UC8zA1d5y_C_wAUcvr83-ndw/videos
