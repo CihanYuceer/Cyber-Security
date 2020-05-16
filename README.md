@@ -62,3 +62,29 @@ https://maddiestone.github.io/AndroidAppRE/
 Malware Analysis
 
 https://class.malware.re/
+
+# Threat Hunting Eğitimleri
+
+Session 1: Network Threat Hunting – Malware Command and Control (C2) – What is it and how does it work?
+
+https://youtu.be/JvNsD-J7DdY 
+
+Session 2: Network Threat Hunting – C2 Detection Techniques – Part 1
+
+https://youtu.be/zs2l2ZOoug8 
+
+Session 3: Network Threat Hunting – C2 Detection Techniques – Part 2
+
+https://youtu.be/yfL09siam78
+
+Session 4: Network Threat Hunting – C2 Detection – Tools
+
+https://youtu.be/IH_Rat2hrBM
+
+Session 5: Network Threat Hunting – Network Threat Hunter’s Runbook
+
+https://youtu.be/gEGs8fHq7bs
+
+Session 6: Network Threat Hunting – Hands-on Lab Review
+
+https://youtu.be/lswVTaVoZPg
