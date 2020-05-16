@@ -23,19 +23,25 @@ https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA //Hackthebox makine ç�
 
 # Pentest Eğitimleri
 How to learn Ethical Hacking with Python and Kali linux course
+
 https://www.youtube.com/watch?v=DzDtzbcmb58
 
 Penetration Testing: Gophish Tutorial (Phishing Framework)
+
 https://www.youtube.com/watch?v=S6S5JF6Gou0
 
 Learn Ethical Hacking With Kali Linux | Ethical Hacking Tutorial | Kali Linux Tutorial | Edureka
+
 https://www.youtube.com/watch?v=0uvWRwLs5Zo
 
 Full Ethical Hacking Course - Network Penetration Testing for Beginners (2019)
+
 https://www.youtube.com/watch?v=3Kq1MIfTWCE
 
 The Complete Ethical Hacking Course for 2020!
+
 https://www.youtube.com/watch?time_continue=20&v=fDeLtKUxTmM
 
 ZERO TO HERO NETWORK PENTESTING
+
 https://www.thecybermentor.com/zero-to-hero-pentesting
