@@ -92,3 +92,17 @@ https://youtu.be/lswVTaVoZPg
 RSA University
 
 https://www.youtube.com/channel/UC8zA1d5y_C_wAUcvr83-ndw/videos
+
+# CTF Web Siteleri
+
+Capture the Flag
+
+https://captf.com/
+
+CyberSoc CTF Platform
+
+https://ctf.cybersoc.wales/
+
+Hacker101 CTF
+
+https://ctf.hacker101.com/
