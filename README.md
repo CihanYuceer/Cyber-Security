@@ -46,6 +46,21 @@ ZERO TO HERO NETWORK PENTESTING
 
 https://www.thecybermentor.com/zero-to-hero-pentesting
 
+Web Security
+
+https://web.stanford.edu/class/cs253/
+
+Bug Bounty Hunter Methodology
+
+https://www.youtube.com/watch?v=Qw1nNPiH_Go
+
+WebSecurity Academy 
+https://portswigger.net/web-security
+
+Bugcrowd University
+
+https://github.com/bugcrowd/bugcrowd_university
+
 # Malware Analizi Eğitimleri
 Welcome to reverse engineering workshops
 
