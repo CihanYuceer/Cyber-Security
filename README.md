@@ -61,6 +61,21 @@ Bugcrowd University
 
 https://github.com/bugcrowd/bugcrowd_university
 
+Network Basics for Hackers
+https://www.hackers-arise.com/networks-basics
+
+Vulnhub
+https://www.vulnhub.com/
+
+Hackthebox
+https://www.hackthebox.eu/
+
+Virtual Hacking Labs
+https://www.virtualhackinglabs.com/
+
+TryHackMe 
+https://tryhackme.com/
+
 # Malware Analizi Eğitimleri
 Welcome to reverse engineering workshops
 
