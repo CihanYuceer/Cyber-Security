@@ -76,6 +76,15 @@ https://www.virtualhackinglabs.com/
 TryHackMe 
 https://tryhackme.com/
 
+Beginner Linux for Ethical Hackers
+https://www.youtube.com/playlist?list=PLLKT__MCUeiwfK18Io6kvwrrhqQyQnV5W
+
+Damn Vulnerable Web Application (DVWA) 
+https://github.com/ethicalhack3r/DVWA
+
+Learn to Hack
+https://www.hacksplaining.com/
+
 # Malware Analizi Eğitimleri
 Welcome to reverse engineering workshops
 
