@@ -93,6 +93,8 @@ https://github.com/ethicalhack3r/DVWA
 Learn to Hack
 https://www.hacksplaining.com/
 
+https://www.youtube.com/@HackerSploit/videos   HackerSploit Training
+
 # Malware Analizi Eğitimleri
 Welcome to reverse engineering workshops
 
