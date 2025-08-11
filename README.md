@@ -27,6 +27,8 @@ https://www.youtube.com/@13Cubed/videos
 
 https://www.youtube.com/@DFIRScience/videos
 
+https://www.youtube.com/playlist?list=PLkb5lfjv-rnDZ-13i13BTRIdhXoGeyT99     Network Forensics Training
+
 # Pentest Eğitimleri
 How to learn Ethical Hacking with Python and Kali linux course
 
