@@ -21,6 +21,12 @@ https://www.youtube.com/channel/UC3s0BtrBJpwNDaflRSoiieQ //Siber güvenlikle ala
 
 https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA //Hackthebox makine çözümlerini anlatan bir YouTube kanalı
 
+# DFIR Eğitimleri
+
+https://www.youtube.com/@13Cubed/videos
+
+https://www.youtube.com/@DFIRScience/videos
+
 # Pentest Eğitimleri
 How to learn Ethical Hacking with Python and Kali linux course
 
