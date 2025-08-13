@@ -29,6 +29,12 @@ https://www.youtube.com/@DFIRScience/videos
 
 https://www.youtube.com/playlist?list=PLkb5lfjv-rnDZ-13i13BTRIdhXoGeyT99     Network Forensics Training
 
+# SIEM Eğitimleri
+
+https://www.youtube.com/watch?v=Ecpx_R8OOcg  Microsoft Sentinel Training
+
+https://www.youtube.com/watch?v=NJlaqBaqahc  Microsoft Sentinel Training
+
 # Pentest Eğitimleri
 How to learn Ethical Hacking with Python and Kali linux course
 
